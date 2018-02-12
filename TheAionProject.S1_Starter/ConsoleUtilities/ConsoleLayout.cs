@@ -46,7 +46,7 @@ namespace TheAionProject
         public static int MenuBoxHeight = 20;
         public static int MenuBoxPositionLeft = 122;
         public static int MenuBoxPositionTop = 3;
-
+    
         //
         // message box configuration
         //
